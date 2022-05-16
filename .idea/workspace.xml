@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec258af2-bf66-4d29-9332-11f27767ff45" name="Changes" comment="git commit -m &quot;corrections and additions Mail file&quot;">
+    <list default="true" id="ec258af2-bf66-4d29-9332-11f27767ff45" name="Changes" comment="git commit -m &quot;Correction, adding new tests&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/BonusServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BonusServiceTest.java" afterDir="false" />
     </list>
@@ -80,9 +80,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BonusServiceTest.shouldCalculateFornoRegisteredAndUnderLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven-1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BonusServiceTest" />
+      <option name="METHOD_NAME" value="shouldCalculateFornoRegisteredAndUnderLimit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.BonusServiceTest.shouldCalculateFornoRegisteredAndUnderLimit" />
         <item itemvalue="JUnit.BonusServiceTest" />
       </list>
     </recent_temporary>
@@ -110,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652190703575</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="git commit -m &quot;Correction, adding new tests&quot;">
+      <created>1652211333270</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652211333271</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +145,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git commit -m &quot;Maven-1&quot;" />
     <MESSAGE value="git commit -m &quot;corrections and additions Mail file&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;corrections and additions Mail file&quot;" />
+    <MESSAGE value="git commit -m &quot;Correction, adding new tests&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;Correction, adding new tests&quot;" />
   </component>
 </project>
